@@ -1,0 +1,11 @@
+{
+  "port": 3002,
+  "expire": "5days",
+  "access_time": "30m",
+  "refresh_ms": 2592000000,
+  "refresh_time": "30d",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "ahmadkhonovazimkhoja@gmail.com",
+  "api_url": "http://localhost:3002"
+}
